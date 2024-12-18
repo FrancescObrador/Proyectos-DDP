@@ -172,6 +172,9 @@ public void Modify (ClienteEN cliente)
 
                 clienteNH.Telefono = cliente.Telefono;
 
+
+                clienteNH.Pass = cliente.Pass;
+
                 session.Update (clienteNH);
                 SessionCommit ();
         }

@@ -31,7 +31,7 @@ public IClienteRepository get_IClienteRepository ()
         return this._IClienteRepository;
 }
 
-public string New_ (string p_DNI, string p_nombre, string p_direccion, string p_telefono)
+public string New_ (string p_DNI, string p_nombre, string p_direccion, string p_telefono, String p_pass)
 {
         ClienteEN clienteEN = null;
         string oid;
@@ -46,13 +46,15 @@ public string New_ (string p_DNI, string p_nombre, string p_direccion, string p_
 
         clienteEN.Telefono = p_telefono;
 
+        clienteEN.Pass = Utils.Util.GetEncondeMD5 (p_pass);
+
 
 
         oid = _IClienteRepository.New_ (clienteEN);
         return oid;
 }
 
-public void Modify (string p_Cliente_OID, string p_nombre, string p_direccion, string p_telefono)
+public void Modify (string p_Cliente_OID, string p_nombre, string p_direccion, string p_telefono, String p_pass)
 {
         ClienteEN clienteEN = null;
 
@@ -62,6 +64,7 @@ public void Modify (string p_Cliente_OID, string p_nombre, string p_direccion, s
         clienteEN.Nombre = p_nombre;
         clienteEN.Direccion = p_direccion;
         clienteEN.Telefono = p_telefono;
+        clienteEN.Pass = Utils.Util.GetEncondeMD5 (p_pass);
         //Call to ClienteRepository
 
         _IClienteRepository.Modify (clienteEN);
@@ -87,10 +90,10 @@ public string Login (string p_Cliente_OID, string p_pass)
 
 
 
-private string Encode ()
+private string Encode (string DNI)
 {
         var payload = new Dictionary<string, object>(){
-                {}
+                { "DNI", DNI }
         };
         string token = Jose.JWT.Encode (payload, Utils.Util.getKey (), Jose.JwsAlgorithm.HS256);
 
@@ -100,7 +103,7 @@ private string Encode ()
 public string GetToken (string DNI)
 {
         ClienteEN en = _IClienteRepository.ReadOIDDefault (DNI);
-        string token = Encode ();
+        string token = Encode (en.DNI);
 
         return token;
 }
@@ -129,6 +132,21 @@ public string CheckToken (string token)
         }
 
         return result;
+}
+
+
+public string ObtenerDNI (string decodedToken)
+{
+        try
+        {
+                Dictionary<string, object> results = JsonConvert.DeserializeObject<Dictionary<string, object> >(decodedToken);
+                string dni = (string)results ["DNI"];
+                return dni;
+        }
+        catch
+        {
+                throw new Exception ("El token enviado no es correcto");
+        }
 }
 }
 }

@@ -30,23 +30,6 @@ public ICocheRepository get_ICocheRepository ()
         return this._ICocheRepository;
 }
 
-public int New_ (RentACarGen.ApplicationCore.Enumerated.RentACar.CategoriaCocheEnum p_categoria, RentACarGen.ApplicationCore.Enumerated.RentACar.EstadoCocheEnum p_estado)
-{
-        CocheEN cocheEN = null;
-        int oid;
-
-        //Initialized CocheEN
-        cocheEN = new CocheEN ();
-        cocheEN.Categoria = p_categoria;
-
-        cocheEN.Estado = p_estado;
-
-
-
-        oid = _ICocheRepository.New_ (cocheEN);
-        return oid;
-}
-
 public void Modify (int p_Coche_OID, RentACarGen.ApplicationCore.Enumerated.RentACar.CategoriaCocheEnum p_categoria, RentACarGen.ApplicationCore.Enumerated.RentACar.EstadoCocheEnum p_estado)
 {
         CocheEN cocheEN = null;
