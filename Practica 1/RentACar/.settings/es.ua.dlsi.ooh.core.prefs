@@ -1,0 +1,9 @@
+dataSourceHost=(local)
+dataSourcePassword=nhibernatePass
+dataSourcePort=3306
+dataSourceUser=nhibernateUser
+eclipse.preferences.version=1
+platform=Silverlight
+wcfcsproj=C\:\\<workspacePath>\\<projectName>Gen\\<projectName>Gen_<NavigationalModelName>WCF\\<projectName>Gen_<NavigationalModelName>WCF.csproj
+wcfdll=C\:\\<workspacePath>\\<projectName>Gen\\<projectName>Gen_<NavigationalModelName>WCF\\<projectName>Gen_<NavigationalModelName>WCF\\bin\\<projectName>Gen_<NavigationalModelName>WCF.dll
+wcfurl=v.10

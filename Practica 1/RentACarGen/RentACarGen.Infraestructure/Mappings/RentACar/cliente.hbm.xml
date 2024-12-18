@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="RentACarGen.Infraestructure"
+		                   namespace="RentACarGen.Infraestructure.EN.RentACar">
+		    
+		    
+			
+				<class name="ClienteNH" table="Cliente"> 
+						<id name="DNI" column="DNICliente"/> 
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Direccion" type="string"> 
+						<column name="direccion"  not-null="true"/>
+					</property>
+					<property name="Telefono" type="string"> 
+						<column name="telefono"  not-null="true"/>
+					</property>
+					<property name="Pass" type="string"> 
+						<column name="pass"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+			
+		  			
+						<bag name="Reserva" >
+							<key>
+							
+								
+								<column name="FK_DNICliente_idCliente"/>
+					      	</key>
+							<one-to-many class="RentACarGen.Infraestructure.EN.RentACar.ReservaNH"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Factura" >
+							<key>
+							
+								
+								<column name="FK_DNICliente_idCliente"/>
+					      	</key>
+							<one-to-many class="RentACarGen.Infraestructure.EN.RentACar.FacturaNH"/>
+					    </bag>
+					
+			
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ClienteNHReadAllHQL">from ClienteNH</query>
+		</hibernate-mapping>
+	
