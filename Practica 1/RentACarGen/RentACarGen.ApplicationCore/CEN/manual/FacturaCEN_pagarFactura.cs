@@ -19,9 +19,16 @@ public void PagarFactura (int p_oid)
 {
         /*PROTECTED REGION ID(RentACarGen.ApplicationCore.CEN.RentACar_Factura_pagarFactura) ENABLED START*/
 
-        // Write here your custom code...
+        var factura = _IFacturaRepository.ReadOID (p_oid);
 
-        throw new NotImplementedException ("Method PagarFactura() not yet implemented.");
+        if (factura.EsAnulada) {
+                throw new Exception ("No se puede pagar una factura anulada");
+        }
+
+        if (!factura.EsPagada) {
+                factura.EsPagada = true;
+                _IFacturaRepository.ModifyDefault (factura);
+        }
 
         /*PROTECTED REGION END*/
 }

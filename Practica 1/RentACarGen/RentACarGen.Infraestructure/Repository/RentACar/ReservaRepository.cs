@@ -184,5 +184,61 @@ public void Destroy (int id
                 SessionClose ();
         }
 }
+
+//Sin e: ReadOID
+//Con e: ReservaEN
+public ReservaEN ReadOID (int id
+                          )
+{
+        ReservaEN reservaEN = null;
+
+        try
+        {
+                SessionInitializeTransaction ();
+                reservaEN = (ReservaEN)session.Get (typeof(ReservaNH), id);
+                SessionCommit ();
+        }
+
+        catch (Exception) {
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return reservaEN;
+}
+
+public System.Collections.Generic.IList<ReservaEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<ReservaEN> result = null;
+        try
+        {
+                SessionInitializeTransaction ();
+                if (size > 0)
+                        result = session.CreateCriteria (typeof(ReservaNH)).
+                                 SetFirstResult (first).SetMaxResults (size).List<ReservaEN>();
+                else
+                        result = session.CreateCriteria (typeof(ReservaNH)).List<ReservaEN>();
+                SessionCommit ();
+        }
+
+        catch (Exception ex) {
+                SessionRollBack ();
+                if (ex is RentACarGen.ApplicationCore.Exceptions.ModelException)
+                        throw;
+                else throw new RentACarGen.ApplicationCore.Exceptions.DataLayerException ("Error in ReservaRepository.", ex);
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return result;
+}
 }
 }

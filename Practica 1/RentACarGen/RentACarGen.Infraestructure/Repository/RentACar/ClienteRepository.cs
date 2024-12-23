@@ -216,5 +216,61 @@ public void Destroy (string DNI
                 SessionClose ();
         }
 }
+
+//Sin e: ReadOID
+//Con e: ClienteEN
+public ClienteEN ReadOID (string DNI
+                          )
+{
+        ClienteEN clienteEN = null;
+
+        try
+        {
+                SessionInitializeTransaction ();
+                clienteEN = (ClienteEN)session.Get (typeof(ClienteNH), DNI);
+                SessionCommit ();
+        }
+
+        catch (Exception) {
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return clienteEN;
+}
+
+public System.Collections.Generic.IList<ClienteEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<ClienteEN> result = null;
+        try
+        {
+                SessionInitializeTransaction ();
+                if (size > 0)
+                        result = session.CreateCriteria (typeof(ClienteNH)).
+                                 SetFirstResult (first).SetMaxResults (size).List<ClienteEN>();
+                else
+                        result = session.CreateCriteria (typeof(ClienteNH)).List<ClienteEN>();
+                SessionCommit ();
+        }
+
+        catch (Exception ex) {
+                SessionRollBack ();
+                if (ex is RentACarGen.ApplicationCore.Exceptions.ModelException)
+                        throw;
+                else throw new RentACarGen.ApplicationCore.Exceptions.DataLayerException ("Error in ClienteRepository.", ex);
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return result;
+}
 }
 }

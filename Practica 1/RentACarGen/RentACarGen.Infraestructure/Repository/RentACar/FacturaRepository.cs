@@ -207,5 +207,60 @@ public void Modify (FacturaEN factura)
                 SessionClose ();
         }
 }
+//Sin e: ReadOID
+//Con e: FacturaEN
+public FacturaEN ReadOID (int id
+                          )
+{
+        FacturaEN facturaEN = null;
+
+        try
+        {
+                SessionInitializeTransaction ();
+                facturaEN = (FacturaEN)session.Get (typeof(FacturaNH), id);
+                SessionCommit ();
+        }
+
+        catch (Exception) {
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return facturaEN;
+}
+
+public System.Collections.Generic.IList<FacturaEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<FacturaEN> result = null;
+        try
+        {
+                SessionInitializeTransaction ();
+                if (size > 0)
+                        result = session.CreateCriteria (typeof(FacturaNH)).
+                                 SetFirstResult (first).SetMaxResults (size).List<FacturaEN>();
+                else
+                        result = session.CreateCriteria (typeof(FacturaNH)).List<FacturaEN>();
+                SessionCommit ();
+        }
+
+        catch (Exception ex) {
+                SessionRollBack ();
+                if (ex is RentACarGen.ApplicationCore.Exceptions.ModelException)
+                        throw;
+                else throw new RentACarGen.ApplicationCore.Exceptions.DataLayerException ("Error in FacturaRepository.", ex);
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return result;
+}
 }
 }

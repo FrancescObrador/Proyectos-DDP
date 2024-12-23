@@ -21,7 +21,7 @@ public void DesasignarReserva (int p_oid)
 
         // Write here your custom code...
 
-        throw new NotImplementedException ("Method DesasignarReserva() not yet implemented.");
+        //throw new NotImplementedException ("Method DesasignarReserva() not yet implemented.");
 
         /*PROTECTED REGION END*/
 }

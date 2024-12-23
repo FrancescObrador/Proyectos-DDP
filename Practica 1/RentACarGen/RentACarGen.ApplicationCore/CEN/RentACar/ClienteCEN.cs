@@ -87,6 +87,22 @@ public string Login (string p_Cliente_OID, string p_pass)
         return result;
 }
 
+public ClienteEN ReadOID (string DNI
+                          )
+{
+        ClienteEN clienteEN = null;
+
+        clienteEN = _IClienteRepository.ReadOID (DNI);
+        return clienteEN;
+}
+
+public System.Collections.Generic.IList<ClienteEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<ClienteEN> list = null;
+
+        list = _IClienteRepository.ReadAll (first, size);
+        return list;
+}
 
 
 

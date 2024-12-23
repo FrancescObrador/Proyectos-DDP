@@ -15,13 +15,37 @@ namespace RentACarGen.ApplicationCore.CEN.RentACar
 {
 public partial class CocheCEN
 {
-public void Reservar (int p_oid)
+public void Reservar (int p_oid, int p_oid_reserva)
 {
         /*PROTECTED REGION ID(RentACarGen.ApplicationCore.CEN.RentACar_Coche_reservar) ENABLED START*/
 
-        // Write here your custom code...
+        CocheEN cocheEN = _ICocheRepository.ReadOIDDefault (p_oid);
 
-        throw new NotImplementedException ("Method Reservar() not yet implemented.");
+        if (cocheEN == null) {
+                throw new ModelException ($ "El coche con ID {p_oid} no existe.");
+        }
+
+        try
+        {
+                if (cocheEN.Estado == Enumerated.RentACar.EstadoCocheEnum.libre) {
+                        cocheEN.Estado = Enumerated.RentACar.EstadoCocheEnum.alquilado;
+
+                        if (cocheEN.Reserva == null) {
+                                cocheEN.Reserva = new ReservaEN ();
+                                cocheEN.Reserva.Id = p_oid_reserva;
+                        }
+
+                        _ICocheRepository.ModifyDefault (cocheEN);
+                        AsignarReserva (p_oid_reserva);
+                }
+                else{
+                        throw new ModelException ("El coche no est� libre");
+                }
+        }
+        catch (Exception e)
+        {
+                throw new ModelException ("Error en la reserva del coche", e);
+        }
 
         /*PROTECTED REGION END*/
 }

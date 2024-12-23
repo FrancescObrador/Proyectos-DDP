@@ -203,5 +203,61 @@ public void Destroy (int id
                 SessionClose ();
         }
 }
+
+//Sin e: ReadOID
+//Con e: CocheEN
+public CocheEN ReadOID (int id
+                        )
+{
+        CocheEN cocheEN = null;
+
+        try
+        {
+                SessionInitializeTransaction ();
+                cocheEN = (CocheEN)session.Get (typeof(CocheNH), id);
+                SessionCommit ();
+        }
+
+        catch (Exception) {
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return cocheEN;
+}
+
+public System.Collections.Generic.IList<CocheEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<CocheEN> result = null;
+        try
+        {
+                SessionInitializeTransaction ();
+                if (size > 0)
+                        result = session.CreateCriteria (typeof(CocheNH)).
+                                 SetFirstResult (first).SetMaxResults (size).List<CocheEN>();
+                else
+                        result = session.CreateCriteria (typeof(CocheNH)).List<CocheEN>();
+                SessionCommit ();
+        }
+
+        catch (Exception ex) {
+                SessionRollBack ();
+                if (ex is RentACarGen.ApplicationCore.Exceptions.ModelException)
+                        throw;
+                else throw new RentACarGen.ApplicationCore.Exceptions.DataLayerException ("Error in CocheRepository.", ex);
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return result;
+}
 }
 }

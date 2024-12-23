@@ -76,5 +76,22 @@ public void Modify (int p_Factura_OID, Nullable<DateTime> p_fecha, bool p_esPaga
 
         _IFacturaRepository.Modify (facturaEN);
 }
+
+public FacturaEN ReadOID (int id
+                          )
+{
+        FacturaEN facturaEN = null;
+
+        facturaEN = _IFacturaRepository.ReadOID (id);
+        return facturaEN;
+}
+
+public System.Collections.Generic.IList<FacturaEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<FacturaEN> list = null;
+
+        list = _IFacturaRepository.ReadAll (first, size);
+        return list;
+}
 }
 }

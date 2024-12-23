@@ -49,5 +49,22 @@ public void Destroy (int id
 {
         _ICocheRepository.Destroy (id);
 }
+
+public CocheEN ReadOID (int id
+                        )
+{
+        CocheEN cocheEN = null;
+
+        cocheEN = _ICocheRepository.ReadOID (id);
+        return cocheEN;
+}
+
+public System.Collections.Generic.IList<CocheEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<CocheEN> list = null;
+
+        list = _ICocheRepository.ReadAll (first, size);
+        return list;
+}
 }
 }

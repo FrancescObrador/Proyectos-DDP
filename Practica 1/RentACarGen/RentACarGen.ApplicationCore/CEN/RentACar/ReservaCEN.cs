@@ -60,5 +60,22 @@ public void Destroy (int id
 {
         _IReservaRepository.Destroy (id);
 }
+
+public ReservaEN ReadOID (int id
+                          )
+{
+        ReservaEN reservaEN = null;
+
+        reservaEN = _IReservaRepository.ReadOID (id);
+        return reservaEN;
+}
+
+public System.Collections.Generic.IList<ReservaEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<ReservaEN> list = null;
+
+        list = _IReservaRepository.ReadAll (first, size);
+        return list;
+}
 }
 }

@@ -21,5 +21,14 @@ System.Collections.Generic.IList<FacturaEN> ReadAllDefault (int first, int size)
 int New_ (FacturaEN factura);
 
 void Modify (FacturaEN factura);
+
+
+
+
+FacturaEN ReadOID (int id
+                   );
+
+
+System.Collections.Generic.IList<FacturaEN> ReadAll (int first, int size);
 }
 }

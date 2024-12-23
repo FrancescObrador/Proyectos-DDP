@@ -60,5 +60,22 @@ public int New_ (double p_precio, int p_factura, int p_reserva)
         oid = _ILineaFacturaRepository.New_ (lineaFacturaEN);
         return oid;
 }
+
+public LineaFacturaEN ReadOID (int numLinea
+                               )
+{
+        LineaFacturaEN lineaFacturaEN = null;
+
+        lineaFacturaEN = _ILineaFacturaRepository.ReadOID (numLinea);
+        return lineaFacturaEN;
+}
+
+public System.Collections.Generic.IList<LineaFacturaEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<LineaFacturaEN> list = null;
+
+        list = _ILineaFacturaRepository.ReadAll (first, size);
+        return list;
+}
 }
 }

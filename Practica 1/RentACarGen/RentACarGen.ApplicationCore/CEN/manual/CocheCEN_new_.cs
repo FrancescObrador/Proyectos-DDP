@@ -17,7 +17,7 @@ public partial class CocheCEN
 {
 public int New_ (RentACarGen.ApplicationCore.Enumerated.RentACar.CategoriaCocheEnum p_categoria)
 {
-        /*PROTECTED REGION ID(RentACarGen.ApplicationCore.CEN.RentACar_Coche_new__customized) START*/
+        /*PROTECTED REGION ID(RentACarGen.ApplicationCore.CEN.RentACar_Coche_new__customized) ENABLED START*/
 
         CocheEN cocheEN = null;
 
@@ -26,6 +26,7 @@ public int New_ (RentACarGen.ApplicationCore.Enumerated.RentACar.CategoriaCocheE
         //Initialized CocheEN
         cocheEN = new CocheEN ();
         cocheEN.Categoria = p_categoria;
+        cocheEN.Estado = Enumerated.RentACar.EstadoCocheEnum.libre;
 
         //Call to CocheRepository
 

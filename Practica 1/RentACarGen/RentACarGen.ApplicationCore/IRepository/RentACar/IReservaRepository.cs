@@ -22,5 +22,12 @@ int New_ (ReservaEN reserva);
 
 void Destroy (int id
               );
+
+
+ReservaEN ReadOID (int id
+                   );
+
+
+System.Collections.Generic.IList<ReservaEN> ReadAll (int first, int size);
 }
 }

@@ -25,5 +25,16 @@ void Modify (CocheEN coche);
 
 void Destroy (int id
               );
+
+
+
+
+
+
+CocheEN ReadOID (int id
+                 );
+
+
+System.Collections.Generic.IList<CocheEN> ReadAll (int first, int size);
 }
 }

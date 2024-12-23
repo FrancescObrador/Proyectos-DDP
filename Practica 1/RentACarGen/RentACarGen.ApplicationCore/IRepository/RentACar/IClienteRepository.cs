@@ -25,5 +25,13 @@ void Modify (ClienteEN cliente);
 
 void Destroy (string DNI
               );
+
+
+
+ClienteEN ReadOID (string DNI
+                   );
+
+
+System.Collections.Generic.IList<ClienteEN> ReadAll (int first, int size);
 }
 }

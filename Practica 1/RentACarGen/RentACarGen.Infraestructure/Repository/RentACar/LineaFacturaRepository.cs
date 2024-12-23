@@ -163,5 +163,61 @@ public int New_ (LineaFacturaEN lineaFactura)
 
         return lineaFacturaNH.NumLinea;
 }
+
+//Sin e: ReadOID
+//Con e: LineaFacturaEN
+public LineaFacturaEN ReadOID (int numLinea
+                               )
+{
+        LineaFacturaEN lineaFacturaEN = null;
+
+        try
+        {
+                SessionInitializeTransaction ();
+                lineaFacturaEN = (LineaFacturaEN)session.Get (typeof(LineaFacturaNH), numLinea);
+                SessionCommit ();
+        }
+
+        catch (Exception) {
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return lineaFacturaEN;
+}
+
+public System.Collections.Generic.IList<LineaFacturaEN> ReadAll (int first, int size)
+{
+        System.Collections.Generic.IList<LineaFacturaEN> result = null;
+        try
+        {
+                SessionInitializeTransaction ();
+                if (size > 0)
+                        result = session.CreateCriteria (typeof(LineaFacturaNH)).
+                                 SetFirstResult (first).SetMaxResults (size).List<LineaFacturaEN>();
+                else
+                        result = session.CreateCriteria (typeof(LineaFacturaNH)).List<LineaFacturaEN>();
+                SessionCommit ();
+        }
+
+        catch (Exception ex) {
+                SessionRollBack ();
+                if (ex is RentACarGen.ApplicationCore.Exceptions.ModelException)
+                        throw;
+                else throw new RentACarGen.ApplicationCore.Exceptions.DataLayerException ("Error in LineaFacturaRepository.", ex);
+        }
+
+
+        finally
+        {
+                SessionClose ();
+        }
+
+        return result;
+}
 }
 }

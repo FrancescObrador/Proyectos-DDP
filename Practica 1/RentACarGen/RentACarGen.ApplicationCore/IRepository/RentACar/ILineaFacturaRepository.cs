@@ -19,5 +19,11 @@ System.Collections.Generic.IList<LineaFacturaEN> ReadAllDefault (int first, int 
 
 
 int New_ (LineaFacturaEN lineaFactura);
+
+LineaFacturaEN ReadOID (int numLinea
+                        );
+
+
+System.Collections.Generic.IList<LineaFacturaEN> ReadAll (int first, int size);
 }
 }
