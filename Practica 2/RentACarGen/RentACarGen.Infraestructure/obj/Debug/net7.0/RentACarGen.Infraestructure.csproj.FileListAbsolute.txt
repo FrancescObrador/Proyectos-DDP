@@ -1,0 +1,16 @@
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net7.0\hibernate.cfg.xml
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net7.0\RentACarGen.Infraestructure.deps.json
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net7.0\RentACarGen.Infraestructure.dll
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net7.0\RentACarGen.Infraestructure.pdb
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net7.0\RentACarGen.ApplicationCore.dll
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net7.0\RentACarGen.ApplicationCore.pdb
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\RentACarGen.Infraestructure.csproj.AssemblyReference.cache
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\RentACarGen.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\RentACarGen.Infraestructure.AssemblyInfoInputs.cache
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\RentACarGen.Infraestructure.AssemblyInfo.cs
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\RentACarGen.Infraestructure.csproj.CoreCompileInputs.cache
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\RentACarGen.Infraestructure.csproj.CopyComplete
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\RentACarGen.Infraestructure.dll
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\refint\RentACarGen.Infraestructure.dll
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\RentACarGen.Infraestructure.pdb
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net7.0\ref\RentACarGen.Infraestructure.dll

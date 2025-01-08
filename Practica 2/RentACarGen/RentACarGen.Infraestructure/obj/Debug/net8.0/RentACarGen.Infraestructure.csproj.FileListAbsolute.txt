@@ -1,0 +1,49 @@
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\hibernate.cfg.xml
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.deps.json
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.dll
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.pdb
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.ApplicationCore.dll
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.ApplicationCore.pdb
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.csproj.AssemblyReference.cache
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.AssemblyInfoInputs.cache
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.AssemblyInfo.cs
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.csproj.CoreCompileInputs.cache
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.csproj.CopyComplete
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.dll
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\refint\RentACarGen.Infraestructure.dll
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.pdb
+C:\ooh4ria\DDP_25\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\ref\RentACarGen.Infraestructure.dll
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\hibernate.cfg.xml
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.deps.json
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.dll
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.pdb
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.ApplicationCore.dll
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.ApplicationCore.pdb
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.AssemblyInfo.cs
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACar.CE1F883C.Up2Date
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.dll
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\refint\RentACarGen.Infraestructure.dll
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.pdb
+C:\Users\USER\Desktop\RentACar_practica2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\ref\RentACarGen.Infraestructure.dll
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\hibernate.cfg.xml
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.deps.json
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.dll
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.Infraestructure.pdb
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.ApplicationCore.dll
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\bin\Debug\net8.0\RentACarGen.ApplicationCore.pdb
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.csproj.AssemblyReference.cache
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.AssemblyInfoInputs.cache
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.AssemblyInfo.cs
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.csproj.CoreCompileInputs.cache
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.sourcelink.json
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACar.CE1F883C.Up2Date
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.dll
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\refint\RentACarGen.Infraestructure.dll
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\RentACarGen.Infraestructure.pdb
+C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.Infraestructure\obj\Debug\net8.0\ref\RentACarGen.Infraestructure.dll

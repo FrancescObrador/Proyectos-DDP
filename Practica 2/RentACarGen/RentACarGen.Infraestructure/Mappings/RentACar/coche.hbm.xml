@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="RentACarGen.Infraestructure"
+		                   namespace="RentACarGen.Infraestructure.EN.RentACar">
+		    
+		    
+			
+				<class name="CocheNH" table="Coche"> 
+				  	
+						<id name="NumLicencia" column="numLicencia" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Categoria" > 
+						<column name="categoria"  not-null="true"/>
+					</property>
+					<property name="Estado" > 
+						<column name="estado"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+		  			
+					
+							   <one-to-one name="Reserva" class="RentACarGen.Infraestructure.EN.RentACar.ReservaNH" property-ref="Coche" />							
+					 
+						
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="CocheNHReadAllHQL">from CocheNH</query>
+			
+			<query name="DameCochesDisponibles">
+				FROM CocheNH c
+				WHERE c.NumLicencia NOT IN (SELECT r.Coche.NumLicencia FROM ReservaNH r)
+			</query>
+			
+			<query name="DameNumeroCochesAlquilados">
+				SELECT COUNT(c)
+				FROM CocheNH c
+				WHERE c.NumLicencia IN (
+				SELECT r.Coche.NumLicencia
+				FROM ReservaNH r
+				WHERE r.Inicio &lt; CURRENT_DATE AND r.Final &gt; CURRENT_DATE)
+
+			</query>
+			
+		</hibernate-mapping>
+	

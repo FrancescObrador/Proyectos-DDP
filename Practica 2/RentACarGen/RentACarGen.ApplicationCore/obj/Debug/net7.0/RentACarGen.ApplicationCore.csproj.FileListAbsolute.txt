@@ -1,0 +1,12 @@
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\bin\Debug\net7.0\RentACarGen.ApplicationCore.deps.json
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\bin\Debug\net7.0\RentACarGen.ApplicationCore.dll
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\bin\Debug\net7.0\RentACarGen.ApplicationCore.pdb
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\RentACarGen.ApplicationCore.csproj.AssemblyReference.cache
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\RentACarGen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\RentACarGen.ApplicationCore.AssemblyInfoInputs.cache
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\RentACarGen.ApplicationCore.AssemblyInfo.cs
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\RentACarGen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\RentACarGen.ApplicationCore.dll
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\refint\RentACarGen.ApplicationCore.dll
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\RentACarGen.ApplicationCore.pdb
+D:\OOH4RIA\DDP2023\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net7.0\ref\RentACarGen.ApplicationCore.dll

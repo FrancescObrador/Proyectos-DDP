@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="RentACarGen.Infraestructure"
+		                   namespace="RentACarGen.Infraestructure.EN.RentACar">
+		    
+		    
+			
+				<class name="ReservaNH" table="Reserva"> 
+				  	
+						<id name="Id" column="id" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Inicio" type="date"> 
+						<column name="inicio"  not-null="true"/>
+					</property>
+					<property name="Final" type="date"> 
+						<column name="final"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+		  			
+					
+							<many-to-one name="Coche" class="RentACarGen.Infraestructure.EN.RentACar.CocheNH" >
+								<column name="FK_numLicencia_idCoche"/> 
+        					</many-to-one>
+					 
+						
+			
+		  			
+					
+							   <one-to-one name="LineaFactura" class="RentACarGen.Infraestructure.EN.RentACar.LineaFacturaNH" property-ref="Reserva" />							
+					 
+						
+			
+		  			
+						<many-to-one name="Cliente" class="RentACarGen.Infraestructure.EN.RentACar.ClienteNH" >	
+								<column name="FK_DNI_idCliente"/> 
+						</many-to-one>
+											 					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ReservaNHReadAllHQL">from ReservaNH</query>
+			<query name="DameReservasCochesEconomicos">
+				FROM ReservaNH r
+				WHERE r.Coche.Categoria = 'Económico'
+			</query>
+		</hibernate-mapping>
+	

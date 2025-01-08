@@ -1,0 +1,180 @@
+0    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - --------------------------------------------------------------------------------------
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - EMF Modeling Workflow Engine 1.3.11, Build v201508030321
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - (c) 2005-2009 openarchitectureware.org and contributors
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - --------------------------------------------------------------------------------------
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - running workflow: C:/ooh4ria/DDP_25/RentACar/templates/workflow/generator.mwe
+1    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - 
+204  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Registering platform uri 'C:\ooh4ria\DDP_25'
+324  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Adding generated EPackage 'es.ua.dlsi.ooh.conceptualView.ConceptualViewPackage'
+355  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Adding generated EPackage 'org.eclipse.gmf.runtime.notation.NotationPackage'
+407  [main] INFO  e.core.container.CompositeComponent  - Workflow: executing workflow workflow::nhibernate::generator.mwe in C:/ooh4ria/DDP_25/RentACar/templates/workflow/generator.mwe:12
+407  [main] INFO  e.core.container.CompositeComponent  - XmiReader: file 'models/default.domainModel' => slot 'es_ua_dlsi_ooh_conceptual_model'
+489  [main] INFO  e.core.container.CompositeComponent  - CheckComponent: slot es_ua_dlsi_ooh_conceptual_model check file(s): metamodel::Checks 
+700  [main] INFO  e.core.container.CompositeComponent  - es.ua.dlsi.ooh.persistence.nhibernate.generator.workflowComponents.CleanBackup
+Se ha borrado el directorio backup en la ubicacion: ../RentACarGen\Backup
+706  [main] INFO  e.core.container.CompositeComponent  - DirectoryCleaner(dirCleanerEN): cleaning directory '../RentACarGen/Gen.ApplicationCore/EN/'
+706  [main] INFO  e.core.container.CompositeComponent  - DirectoryCleaner(dirCleanerCP): cleaning directory '../RentACarGen/Gen.ApplicationCore/CP/'
+706  [main] INFO  e.core.container.CompositeComponent  - DirectoryCleaner(dirCleanerCEN): cleaning directory '../RentACarGen/Gen.ApplicationCore/CEN/'
+706  [main] INFO  e.core.container.CompositeComponent  - DirectoryCleaner(dirCleanerIRepo): cleaning directory '../RentACarGen/Gen.ApplicationCore/IRepository/'
+706  [main] INFO  e.core.container.CompositeComponent  - DirectoryCleaner(dirCleanerEnum): cleaning directory '../RentACarGen/Gen.ApplicationCore/Enumerated/'
+707  [main] INFO  e.core.container.CompositeComponent  - DirectoryCleaner(dirCleanerINFEN): cleaning directory '../RentACarGen/Gen.Infraestructure/EN/'
+707  [main] INFO  e.core.container.CompositeComponent  - DirectoryCleaner(dirCleanerINFMap): cleaning directory '../RentACarGen/Gen.Infraestructure/Mappings/'
+707  [main] INFO  e.core.container.CompositeComponent  - DirectoryCleaner(dirCleanerINFRepo): cleaning directory '../RentACarGen/Gen.Infraestructure/Repository/'
+707  [main] INFO  e.core.container.CompositeComponent  - Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [../RentACarGen, CONFIGURATION:../RentACarGen(overwrite=false,append=false,fileEncoding=utf-8)]
+La licencia está en vigor. Su fecha de expiración es: Fri Oct 17 22:19:10 CEST 2025
+753  [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Source scan started ...
+966  [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Source scan finished in 0.212s
+966  [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Files scanned: 163
+966  [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Regions found: 16
+configuroConf:C:\Users\anast\AppData\Local\Temp\OOH4RIA1237848310708917302.cfg
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+1349 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - ClienteRepository
+enc:utf-8
+1400 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - ReservaRepository
+LA clase origen: Reserva y el nombre de rol: cliente
+DISTINTO en: asoOrigin: coche_reserva. El nombre del rol origen: coche de el rol destino: cliente
+LA clase destino: Reserva y el nombre de rol: cliente
+DISTINTO en: asoTarget: reserva_lineaFactura. El nombre del rol destino: lineaFactura de el rol origen: cliente
+Encontrado en: asoTarget: reserva_cliente El nombre de rol origen (generado): reserva y el nombre del rol destino:cliente
+LA clase origen: Reserva y el nombre de rol: cliente
+DISTINTO en: asoOrigin: coche_reserva. El nombre del rol origen: coche de el rol destino: cliente
+LA clase destino: Reserva y el nombre de rol: cliente
+DISTINTO en: asoTarget: reserva_lineaFactura. El nombre del rol destino: lineaFactura de el rol origen: cliente
+Encontrado en: asoTarget: reserva_cliente El nombre de rol origen (generado): reserva y el nombre del rol destino:cliente
+LA clase origen: Reserva y el nombre de rol: cliente
+DISTINTO en: asoOrigin: coche_reserva. El nombre del rol origen: coche de el rol destino: cliente
+LA clase destino: Reserva y el nombre de rol: cliente
+DISTINTO en: asoTarget: reserva_lineaFactura. El nombre del rol destino: lineaFactura de el rol origen: cliente
+Encontrado en: asoTarget: reserva_cliente El nombre de rol origen (generado): reserva y el nombre del rol destino:cliente
+enc:utf-8
+1442 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - LineaFacturaRepository
+LA clase origen: LineaFactura y el nombre de rol: reserva
+Encontrado en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva y el nombre de rol destino: lineaFactura
+LA clase origen: LineaFactura y el nombre de rol: reserva
+Encontrado en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva y el nombre de rol destino: lineaFactura
+LA clase origen: LineaFactura y el nombre de rol: reserva
+Encontrado en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva y el nombre de rol destino: lineaFactura
+LA clase origen: LineaFactura y el nombre de rol: reserva
+Encontrado en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva y el nombre de rol destino: lineaFactura
+LA clase origen: LineaFactura y el nombre de rol: reserva
+Encontrado en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva y el nombre de rol destino: lineaFactura
+LA clase origen: LineaFactura y el nombre de rol: reserva
+Encontrado en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva y el nombre de rol destino: lineaFactura
+LA clase origen: LineaFactura y el nombre de rol: factura
+DISTINTO en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva de el rol destino: factura
+LA clase destino: LineaFactura y el nombre de rol: factura
+Encontrado en: asoTarget: lineaFactura_factura El nombre de rol origen (generado): lineaFactura y el nombre del rol destino:factura
+LA clase origen: LineaFactura y el nombre de rol: factura
+DISTINTO en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva de el rol destino: factura
+LA clase destino: LineaFactura y el nombre de rol: factura
+Encontrado en: asoTarget: lineaFactura_factura El nombre de rol origen (generado): lineaFactura y el nombre del rol destino:factura
+LA clase origen: LineaFactura y el nombre de rol: factura
+DISTINTO en: asoOrigin: reserva_lineaFactura. El nombre del rol origen: reserva de el rol destino: factura
+LA clase destino: LineaFactura y el nombre de rol: factura
+Encontrado en: asoTarget: lineaFactura_factura El nombre de rol origen (generado): lineaFactura y el nombre del rol destino:factura
+enc:utf-8
+1488 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - FacturaRepository
+LA clase origen: Factura y el nombre de rol: cliente
+Encontrado en: asoOrigin: cliente_factura. El nombre del rol origen: cliente y el nombre de rol destino: factura
+LA clase origen: Factura y el nombre de rol: cliente
+Encontrado en: asoOrigin: cliente_factura. El nombre del rol origen: cliente y el nombre de rol destino: factura
+LA clase origen: Factura y el nombre de rol: cliente
+Encontrado en: asoOrigin: cliente_factura. El nombre del rol origen: cliente y el nombre de rol destino: factura
+LA clase origen: Factura y el nombre de rol: cliente
+Encontrado en: asoOrigin: cliente_factura. El nombre del rol origen: cliente y el nombre de rol destino: factura
+LA clase origen: Factura y el nombre de rol: cliente
+Encontrado en: asoOrigin: cliente_factura. El nombre del rol origen: cliente y el nombre de rol destino: factura
+LA clase origen: Factura y el nombre de rol: cliente
+Encontrado en: asoOrigin: cliente_factura. El nombre del rol origen: cliente y el nombre de rol destino: factura
+enc:utf-8
+1529 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - CocheRepository
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+1825 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - ClienteCEN
+enc:utf-8
+1868 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - ReservaCEN
+enc:utf-8
+1902 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - LineaFacturaCEN
+enc:utf-8
+1936 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - FacturaCEN
+enc:utf-8
+1973 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - CocheCEN
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+2204 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@b2c9a9c (name: crearCliente, visibility: Public, operationType: New, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2205 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@5e5d171f (name: modificarCliente, visibility: Public, operationType: Modifier, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2205 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@7bedc48a (name: borrarCliente, visibility: Public, operationType: Destroy, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2205 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@55b0dcab (name: login, visibility: Public, operationType: Login, description: null, type: String, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2205 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@23348b5d (name: damePorOID, visibility: Public, operationType: ReadOID, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2205 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@37ceb1df (name: dameTodos, visibility: Public, operationType: ReadAll, description: null, type: Object, collectionType: List, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+enc:utf-8
+2226 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@22fcf7ab (name: crearReserva, visibility: Public, operationType: New, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2226 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@c0c2f8d (name: borrarReserva, visibility: Public, operationType: Destroy, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2226 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@6913c1fb (name: damePorOID, visibility: Public, operationType: ReadOID, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2226 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@bccb269 (name: dameTodos, visibility: Public, operationType: ReadAll, description: null, type: Object, collectionType: List, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+enc:utf-8
+2251 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@5fbe4146 (name: crearLinea, visibility: Public, operationType: New, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2251 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@58a9760d (name: damePorOID, visibility: Public, operationType: ReadOID, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2251 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@394df057 (name: dameTodos, visibility: Public, operationType: ReadAll, description: null, type: Object, collectionType: List, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+enc:utf-8
+2271 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@707194ba (name: crearFactura, visibility: Public, operationType: New, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2271 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@385e9564 (name: modificarFactura, visibility: Public, operationType: Modifier, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2271 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@1f59a598 (name: damePorOID, visibility: Public, operationType: ReadOID, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2271 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@192c3f1e (name: dameTodos, visibility: Public, operationType: ReadAll, description: null, type: Object, collectionType: List, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2271 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@26b3fd41 (name: anularFactura, visibility: Public, operationType: Custom, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2271 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@561b6512 (name: pagarFactura, visibility: Public, operationType: Custom, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+enc:utf-8
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@c86b9e3 (name: crearCoche, visibility: Public, operationType: New, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: false, customized: true, paging: false, customizedTransaction: false)
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@3af9c5b7 (name: modificarCoche, visibility: Public, operationType: Modifier, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@38102d01 (name: borrarCoche, visibility: Public, operationType: Destroy, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@6ab778a (name: damePorOID, visibility: Public, operationType: ReadOID, description: null, type: Object, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@77f80c04 (name: dameTodos, visibility: Public, operationType: ReadAll, description: null, type: Object, collectionType: List, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@1dac5ef (name: reservar, visibility: Public, operationType: Custom, description: null, type: Boolean, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@6f45df59 (name: asignarReserva, visibility: Public, operationType: Relationer, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@68e5eea7 (name: desreservar, visibility: Public, operationType: Custom, description: null, type: Boolean, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+2296 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - es.ua.dlsi.ooh.conceptualView.impl.OperationImpl@762ef0ea (name: desasignarReserva, visibility: Public, operationType: Unrelationer, description: null, type: Void, collectionType: None, isStatic: false, isOrdered: false, filter: null, precondition: null, body: null, postcondition: null, automaticSynchronize: true, customized: false, paging: false, customizedTransaction: false)
+enc:utf-8
+enc:utf-8
+enc:utf-8
+2375 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - ClienteEN
+enc:utf-8
+2402 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - ReservaEN
+enc:utf-8
+2428 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - LineaFacturaEN
+enc:utf-8
+2453 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - FacturaEN
+enc:utf-8
+2488 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - CocheEN
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+2730 [main] INFO         org.eclipse.xpand2.Generator  - Written 2 files to outlet [default](../RentACarGen)
+2730 [main] INFO         org.eclipse.xpand2.Generator  - Skipped writing of 59 files to outlet [default](../RentACarGen)
+2730 [main] INFO         org.eclipse.xpand2.Generator  - Skipped writing of 2 files to outlet CONFIGURATION(../RentACarGen)
+2730 [main] INFO  e.core.container.CompositeComponent  - es.ua.dlsi.ooh.persistence.nhibernate.generator.workflowComponents.CreateSolution
+Proyecto sln :RentACarGen.slnpath: ../RentACarGenoverwrite: false
+2737 [main] INFO  e.core.container.CompositeComponent  - es.ua.dlsi.ooh.persistence.nhibernate.generator.workflowComponents.UpdateSolution
+2743 [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - workflow completed in 2337ms!
