@@ -97,7 +97,17 @@ public static void InitializeData ()
 
                 /*PROTECTED REGION ID(initializeDataMethod) ENABLED START*/
 
-                clienterepository.DameTodos(0, -1);
+                var cliente1 = clientecen.CrearCliente("123456789", "Juan", "calle aragon", "123456789", "1234");
+                var coche1 = cochecen.CrearCoche(RentACarGen.ApplicationCore.Enumerated.RentACar.CategoriaCocheEnum.economico);
+                var coche2 = cochecen.CrearCoche(RentACarGen.ApplicationCore.Enumerated.RentACar.CategoriaCocheEnum.lujo);
+
+                var reserva1 = reservacen.CrearReserva(DateTime.Now, DateTime.Now, cliente1);
+
+                var factura1 = facturacen.CrearFactura(DateTime.Now, false, false, 100, cliente1);
+
+                facturacen.PagarFactura(factura1);
+
+                clientecen.DameTodos(0, -1);
                 
 
                 /*PROTECTED REGION END*/
