@@ -35,3 +35,16 @@ C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\
 C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\refint\RentACarGen.ApplicationCore.dll
 C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.pdb
 C:\OOH4RIA\DDP2024\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\ref\RentACarGen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\bin\Debug\net8.0\RentACarGen.ApplicationCore.deps.json
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\bin\Debug\net8.0\RentACarGen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\bin\Debug\net8.0\RentACarGen.ApplicationCore.pdb
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.csproj.AssemblyReference.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.AssemblyInfoInputs.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.AssemblyInfo.cs
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.sourcelink.json
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\refint\RentACarGen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\RentACarGen.ApplicationCore.pdb
+D:\Carpetas\repos\MasterUA\DDP\Practica 2\RentACarGen\RentACarGen.ApplicationCore\obj\Debug\net8.0\ref\RentACarGen.ApplicationCore.dll

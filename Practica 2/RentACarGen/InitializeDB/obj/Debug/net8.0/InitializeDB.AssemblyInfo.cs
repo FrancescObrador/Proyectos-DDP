@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InitializeDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+341df350dac1549b587fb0b335f805da3e66505d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc7dc00b0db0d515bebde71a2e2e6858498518ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("InitializeDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InitializeDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

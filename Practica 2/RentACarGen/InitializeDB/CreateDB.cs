@@ -108,6 +108,7 @@ public static void InitializeData ()
                 facturacen.PagarFactura(factura1);
 
                 clientecen.DameTodos(0, -1);
+
                 
 
                 /*PROTECTED REGION END*/

@@ -5358,23 +5358,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\kikel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OOH4RIA\\DDP2024\\Practica 2\\RentACarGen\\RentACarGen.ApplicationCore\\RentACarGen.ApplicationCore.csproj",
+      "projectUniqueName": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 2\\RentACarGen\\RentACarGen.ApplicationCore\\RentACarGen.ApplicationCore.csproj",
       "projectName": "RentACarGen.ApplicationCore",
-      "projectPath": "C:\\OOH4RIA\\DDP2024\\Practica 2\\RentACarGen\\RentACarGen.ApplicationCore\\RentACarGen.ApplicationCore.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\OOH4RIA\\DDP2024\\Practica 2\\RentACarGen\\RentACarGen.ApplicationCore\\obj\\",
+      "projectPath": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 2\\RentACarGen\\RentACarGen.ApplicationCore\\RentACarGen.ApplicationCore.csproj",
+      "packagesPath": "C:\\Users\\kikel\\.nuget\\packages\\",
+      "outputPath": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 2\\RentACarGen\\RentACarGen.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kikel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
