@@ -53,11 +53,11 @@ public Rentacar2Gen.ApplicationCore.EN.RentaCar2.LineaFacturaEN CrearLinea (int 
                 }
 
                 lineaFacturaEN.Precio = p_precio;
-                lineaFacturaEN.Factura.Total += (float)lineaFacturaEN.Precio;
 
                 oid = lineaFacturaCEN.get_ILineaFacturaRepository ().CrearLinea (lineaFacturaEN);
 
                 result = lineaFacturaCEN.get_ILineaFacturaRepository ().ReadOIDDefault (oid);
+                result.Factura.Total += (float)lineaFacturaEN.Precio;
 
                 facturaCEN.get_IFacturaRepository().ModifyDefault(result.Factura);
 

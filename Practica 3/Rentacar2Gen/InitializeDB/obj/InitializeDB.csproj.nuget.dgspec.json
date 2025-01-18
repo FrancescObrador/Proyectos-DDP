@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\InitializeDB\\InitializeDB.csproj",
         "projectName": "InitializeDB",
         "projectPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\InitializeDB\\InitializeDB.csproj",
-        "packagesPath": "C:\\Users\\kikel\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\InitializeDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kikel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,14 +92,14 @@
         "projectUniqueName": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj",
         "projectName": "Rentacar2Gen.ApplicationCore",
         "projectPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\kikel\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kikel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -163,14 +163,14 @@
         "projectUniqueName": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.Infraestructure\\Rentacar2Gen.Infraestructure.csproj",
         "projectName": "Rentacar2Gen.Infraestructure",
         "projectPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.Infraestructure\\Rentacar2Gen.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\kikel\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kikel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
