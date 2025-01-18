@@ -1,0 +1,16 @@
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net5.0\hibernate.cfg.xml
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net5.0\Rentacar2Gen.Infraestructure.deps.json
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net5.0\Rentacar2Gen.Infraestructure.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net5.0\ref\Rentacar2Gen.Infraestructure.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net5.0\Rentacar2Gen.Infraestructure.pdb
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net5.0\Rentacar2Gen.ApplicationCore.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net5.0\Rentacar2Gen.ApplicationCore.pdb
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\Rentacar2Gen.Infraestructure.csproj.AssemblyReference.cache
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\Rentacar2Gen.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\Rentacar2Gen.Infraestructure.AssemblyInfoInputs.cache
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\Rentacar2Gen.Infraestructure.AssemblyInfo.cs
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\Rentacar2Gen.Infraestructure.csproj.CoreCompileInputs.cache
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\Rentacar2Gen.Infraestructure.csproj.CopyComplete
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\Rentacar2Gen.Infraestructure.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\ref\Rentacar2Gen.Infraestructure.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net5.0\Rentacar2Gen.Infraestructure.pdb

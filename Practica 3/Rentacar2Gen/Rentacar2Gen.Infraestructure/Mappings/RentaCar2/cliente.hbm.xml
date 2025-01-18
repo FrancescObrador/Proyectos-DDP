@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Rentacar2Gen.Infraestructure"
+		                   namespace="Rentacar2Gen.Infraestructure.EN.RentaCar2">
+		    
+		    
+			
+				<class name="ClienteNH" table="Cliente"> 
+						<id name="DNI" column="DNI"/> 
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Direccion" type="string"> 
+						<column name="direccion"  not-null="true"/>
+					</property>
+					<property name="Telefono" type="string"> 
+						<column name="telefono"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+			
+		  			
+						<bag name="Factura" >
+							<key>
+							
+								
+								<column name="FK_DNI_idCliente"/>
+					      	</key>
+							<one-to-many class="Rentacar2Gen.Infraestructure.EN.RentaCar2.FacturaNH"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Reserva" >
+							<key>
+							
+								
+								<column name="FK_DNI_idCliente"/>
+					      	</key>
+							<one-to-many class="Rentacar2Gen.Infraestructure.EN.RentaCar2.ReservaNH"/>
+					    </bag>
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ClienteNHReadAllHQL">from ClienteNH</query>
+		  <query name="ClienteNHdameClientesCochesLujoHQL"><![CDATA[select cli FROM ClienteNH as cli inner join cli.Reserva as res where res.Coche is not empty and res.Coche.Categoria =  3]]></query>
+		</hibernate-mapping>
+	

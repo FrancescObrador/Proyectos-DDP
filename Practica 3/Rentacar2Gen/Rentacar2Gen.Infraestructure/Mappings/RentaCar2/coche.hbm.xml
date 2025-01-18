@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Rentacar2Gen.Infraestructure"
+		                   namespace="Rentacar2Gen.Infraestructure.EN.RentaCar2">
+		    
+		    
+			
+				<class name="CocheNH" table="Coche"> 
+				  	
+						<id name="NumLicencia" column="numLicencia" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Categoria" > 
+						<column name="categoria"  not-null="true"/>
+					</property>
+					<property name="Estado" > 
+						<column name="estado"  not-null="true"/>
+					</property>
+					<property name="PrecioDia" type="float"> 
+						<column name="precioDia"  not-null="true"/>
+					</property>
+			
+			
+		  			
+					
+							   <one-to-one name="Reserva" class="Rentacar2Gen.Infraestructure.EN.RentaCar2.ReservaNH" property-ref="Coche" />							
+					 
+						
+			
+			
+			
+			
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="CocheNHReadAllHQL">from CocheNH</query>
+		  <query name="CocheNHdameCochesDisponiblesHQL"><![CDATA[FROM CocheNH as co where co.Categoria = :p_categoria and co.Estado = 1]]></query>
+		</hibernate-mapping>
+	

@@ -1,0 +1,12 @@
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\bin\Debug\net5.0\Rentacar2Gen.ApplicationCore.deps.json
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\bin\Debug\net5.0\Rentacar2Gen.ApplicationCore.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\bin\Debug\net5.0\ref\Rentacar2Gen.ApplicationCore.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\bin\Debug\net5.0\Rentacar2Gen.ApplicationCore.pdb
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net5.0\Rentacar2Gen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net5.0\Rentacar2Gen.ApplicationCore.AssemblyInfoInputs.cache
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net5.0\Rentacar2Gen.ApplicationCore.AssemblyInfo.cs
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net5.0\Rentacar2Gen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net5.0\Rentacar2Gen.ApplicationCore.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net5.0\ref\Rentacar2Gen.ApplicationCore.dll
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net5.0\Rentacar2Gen.ApplicationCore.pdb
+D:\OOH4RIA\DSM\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net5.0\Rentacar2Gen.ApplicationCore.csproj.AssemblyReference.cache
