@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12805A48-89C4-4634-B74B-4578BB25D575}|..\\7_State\\7_State.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\7_state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041A5584-C876-42BF-B986-E225D45335B8}|..\\6_Command\\6_Command.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\6_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B08E3CA-75FC-4709-8F44-35D4B359810B}|..\\5_Adapter\\5_Adapter.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\5_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270ACCBA-9F7B-4329-9EC5-C6F79D8DE636}|..\\4_Composite\\4_Composite.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\4_composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A2AD9-1E1F-4207-B4A5-C27F0B4145A3}|..\\3_Bridge\\3_Bridge.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\3_bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D61D6ED-F4B4-4970-9740-13353D8D96F7}|..\\2_Builder\\2_Builder.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\2_builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\gasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:gasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\fabricaelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:fabricaelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\fabricagasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:fabricagasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|PatronesGOF.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|PatronesGOF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\ifabricavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:ifabricavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|PatronesGOF.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\ejercicio1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|PatronesGOF.csproj|solutionrelative:ejercicio1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\electricidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:electricidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 4\\patronesgof\\icombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8860E7-AB93-4517-992E-17C05C353EB4}|1_AbstractFactory.csproj|solutionrelative:icombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\7_State\\Program.cs",
+              "RelativeDocumentMoniker": "..\\7_State\\Program.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\7_State\\Program.cs",
+              "RelativeToolTip": "..\\7_State\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:03:18.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\6_Command\\Program.cs",
+              "RelativeDocumentMoniker": "..\\6_Command\\Program.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\6_Command\\Program.cs",
+              "RelativeToolTip": "..\\6_Command\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:03:00.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\5_Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "..\\5_Adapter\\Program.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\5_Adapter\\Program.cs",
+              "RelativeToolTip": "..\\5_Adapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:02:46.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\4_Composite\\Program.cs",
+              "RelativeDocumentMoniker": "..\\4_Composite\\Program.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\4_Composite\\Program.cs",
+              "RelativeToolTip": "..\\4_Composite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:59:48.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\3_Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "..\\3_Bridge\\Program.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\3_Bridge\\Program.cs",
+              "RelativeToolTip": "..\\3_Bridge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:59:29.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\2_Builder\\Program.cs",
+              "RelativeDocumentMoniker": "..\\2_Builder\\Program.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\2_Builder\\Program.cs",
+              "RelativeToolTip": "..\\2_Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:59:11.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVehiculo.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\IVehiculo.cs",
+              "RelativeDocumentMoniker": "IVehiculo.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\IVehiculo.cs",
+              "RelativeToolTip": "IVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:41:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Automovil.cs",
+              "RelativeDocumentMoniker": "Automovil.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Automovil.cs",
+              "RelativeToolTip": "Automovil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:45:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gasolina.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Gasolina.cs",
+              "RelativeDocumentMoniker": "Gasolina.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Gasolina.cs",
+              "RelativeToolTip": "Gasolina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:51:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FabricaGasolina.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\FabricaGasolina.cs",
+              "RelativeDocumentMoniker": "FabricaGasolina.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\FabricaGasolina.cs",
+              "RelativeToolTip": "FabricaGasolina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:46:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FabricaElectrico.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\FabricaElectrico.cs",
+              "RelativeDocumentMoniker": "FabricaElectrico.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\FabricaElectrico.cs",
+              "RelativeToolTip": "FabricaElectrico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:46:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:51:10.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Catalogo.cs",
+              "RelativeDocumentMoniker": "Catalogo.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Catalogo.cs",
+              "RelativeToolTip": "Catalogo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:46:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFabricaVehiculo.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\IFabricaVehiculo.cs",
+              "RelativeDocumentMoniker": "IFabricaVehiculo.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\IFabricaVehiculo.cs",
+              "RelativeToolTip": "IFabricaVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:41:34.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ejercicio1.cd",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Ejercicio1.cd",
+              "RelativeDocumentMoniker": "Ejercicio1.cd",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Ejercicio1.cd",
+              "RelativeToolTip": "Ejercicio1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-04T18:12:00.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Scooter.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Scooter.cs",
+              "RelativeDocumentMoniker": "Scooter.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Scooter.cs",
+              "RelativeToolTip": "Scooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:46:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Electricidad.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Electricidad.cs",
+              "RelativeDocumentMoniker": "Electricidad.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\Electricidad.cs",
+              "RelativeToolTip": "Electricidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:41:25.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICombustible.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\ICombustible.cs",
+              "RelativeDocumentMoniker": "ICombustible.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 4\\PatronesGOF\\ICombustible.cs",
+              "RelativeToolTip": "ICombustible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:41:35.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

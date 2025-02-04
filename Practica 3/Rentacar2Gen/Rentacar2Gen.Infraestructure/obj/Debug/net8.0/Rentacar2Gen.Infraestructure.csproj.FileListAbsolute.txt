@@ -14,3 +14,20 @@ C:\ooh4ria\DDP_25\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Ren
 C:\ooh4ria\DDP_25\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\refint\Rentacar2Gen.Infraestructure.dll
 C:\ooh4ria\DDP_25\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.pdb
 C:\ooh4ria\DDP_25\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\ref\Rentacar2Gen.Infraestructure.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net8.0\hibernate.cfg.xml
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net8.0\Rentacar2Gen.Infraestructure.deps.json
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net8.0\Rentacar2Gen.Infraestructure.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net8.0\Rentacar2Gen.Infraestructure.pdb
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net8.0\Rentacar2Gen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\bin\Debug\net8.0\Rentacar2Gen.ApplicationCore.pdb
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.csproj.AssemblyReference.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.AssemblyInfoInputs.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.AssemblyInfo.cs
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.sourcelink.json
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar.A58AEA51.Up2Date
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\refint\Rentacar2Gen.Infraestructure.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\Rentacar2Gen.Infraestructure.pdb
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.Infraestructure\obj\Debug\net8.0\ref\Rentacar2Gen.Infraestructure.dll

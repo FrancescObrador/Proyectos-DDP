@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\",
+  "WorkspaceRootPath": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0707666C-710B-4192-AA70-E67B3AFABA52}|Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj|c:\\ooh4ria\\ddp2024\\practica 3\\rentacar2gen\\rentacar2gen.applicationcore\\cp\\manual\\lineafacturacp_crearlinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{707DAD7F-5632-4AD7-860E-73A181C52EE2}|InitializeDB\\InitializeDB.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 3\\rentacar2gen\\initializedb\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707DAD7F-5632-4AD7-860E-73A181C52EE2}|InitializeDB\\InitializeDB.csproj|solutionrelative:initializedb\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707666C-710B-4192-AA70-E67B3AFABA52}|Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 3\\rentacar2gen\\rentacar2gen.applicationcore\\cp\\manual\\lineafacturacp_crearlinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0707666C-710B-4192-AA70-E67B3AFABA52}|Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj|solutionrelative:rentacar2gen.applicationcore\\cp\\manual\\lineafacturacp_crearlinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0707666C-710B-4192-AA70-E67B3AFABA52}|Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj|c:\\ooh4ria\\ddp2024\\practica 3\\rentacar2gen\\rentacar2gen.applicationcore\\cp\\manual\\reservacp_realizarreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0707666C-710B-4192-AA70-E67B3AFABA52}|Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj|d:\\carpetas\\repos\\masterua\\ddp\\practica 3\\rentacar2gen\\rentacar2gen.applicationcore\\cp\\manual\\reservacp_realizarreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0707666C-710B-4192-AA70-E67B3AFABA52}|Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj|solutionrelative:rentacar2gen.applicationcore\\cp\\manual\\reservacp_realizarreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{707DAD7F-5632-4AD7-860E-73A181C52EE2}|InitializeDB\\InitializeDB.csproj|c:\\ooh4ria\\ddp2024\\practica 3\\rentacar2gen\\initializedb\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{707DAD7F-5632-4AD7-860E-73A181C52EE2}|InitializeDB\\InitializeDB.csproj|solutionrelative:initializedb\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 143,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ReservaCP_RealizarReserva.cs",
-              "DocumentMoniker": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\CP\\manual\\ReservaCP_RealizarReserva.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\CP\\manual\\ReservaCP_RealizarReserva.cs",
               "RelativeDocumentMoniker": "Rentacar2Gen.ApplicationCore\\CP\\manual\\ReservaCP_RealizarReserva.cs",
-              "ToolTip": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\CP\\manual\\ReservaCP_RealizarReserva.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\CP\\manual\\ReservaCP_RealizarReserva.cs",
               "RelativeToolTip": "Rentacar2Gen.ApplicationCore\\CP\\manual\\ReservaCP_RealizarReserva.cs",
-              "ViewState": "AgIAACUAAAAAZmZmZmYGwEMAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAZmZmZmYGwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T18:16:43.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CreateDB.cs",
-              "DocumentMoniker": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\InitializeDB\\CreateDB.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\InitializeDB\\CreateDB.cs",
               "RelativeDocumentMoniker": "InitializeDB\\CreateDB.cs",
-              "ToolTip": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\InitializeDB\\CreateDB.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\InitializeDB\\CreateDB.cs",
               "RelativeToolTip": "InitializeDB\\CreateDB.cs",
-              "ViewState": "AgIAABYAAAAAMjMzMzMuwDMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAMjMzMzMuwJMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T16:03:23.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LineaFacturaCP_crearLinea.cs",
-              "DocumentMoniker": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\CP\\manual\\LineaFacturaCP_crearLinea.cs",
+              "DocumentMoniker": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\CP\\manual\\LineaFacturaCP_crearLinea.cs",
               "RelativeDocumentMoniker": "Rentacar2Gen.ApplicationCore\\CP\\manual\\LineaFacturaCP_crearLinea.cs",
-              "ToolTip": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\CP\\manual\\LineaFacturaCP_crearLinea.cs",
+              "ToolTip": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\CP\\manual\\LineaFacturaCP_crearLinea.cs",
               "RelativeToolTip": "Rentacar2Gen.ApplicationCore\\CP\\manual\\LineaFacturaCP_crearLinea.cs",
-              "ViewState": "AgIAABcAAAAANDMzMzMbwDsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAANDMzMzMbwDsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T19:24:54.03Z",
               "EditorCaption": ""

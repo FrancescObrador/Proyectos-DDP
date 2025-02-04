@@ -10,3 +10,16 @@ C:\ooh4ria\DDP_25\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Ren
 C:\ooh4ria\DDP_25\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\refint\Rentacar2Gen.ApplicationCore.dll
 C:\ooh4ria\DDP_25\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.pdb
 C:\ooh4ria\DDP_25\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\ref\Rentacar2Gen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\bin\Debug\net8.0\Rentacar2Gen.ApplicationCore.deps.json
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\bin\Debug\net8.0\Rentacar2Gen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\bin\Debug\net8.0\Rentacar2Gen.ApplicationCore.pdb
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.csproj.AssemblyReference.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.AssemblyInfoInputs.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.AssemblyInfo.cs
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.sourcelink.json
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\refint\Rentacar2Gen.ApplicationCore.dll
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\Rentacar2Gen.ApplicationCore.pdb
+D:\Carpetas\repos\MasterUA\DDP\Practica 3\Rentacar2Gen\Rentacar2Gen.ApplicationCore\obj\Debug\net8.0\ref\Rentacar2Gen.ApplicationCore.dll

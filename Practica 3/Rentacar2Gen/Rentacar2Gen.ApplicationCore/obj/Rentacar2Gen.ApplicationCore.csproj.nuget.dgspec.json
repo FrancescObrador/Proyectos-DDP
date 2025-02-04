@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj": {}
+    "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj": {
+    "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj",
+        "projectUniqueName": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj",
         "projectName": "Rentacar2Gen.ApplicationCore",
-        "projectPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\OOH4RIA\\DDP2024\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\obj\\",
+        "projectPath": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\Rentacar2Gen.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\kikel\\.nuget\\packages\\",
+        "outputPath": "D:\\Carpetas\\repos\\MasterUA\\DDP\\Practica 3\\Rentacar2Gen\\Rentacar2Gen.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kikel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
