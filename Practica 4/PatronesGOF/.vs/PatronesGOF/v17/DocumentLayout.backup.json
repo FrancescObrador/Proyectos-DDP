@@ -3,48 +3,60 @@
   "WorkspaceRootPath": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\5_adapter\\programadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|solutionrelative:5_adapter\\programadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\7_state\\programstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|solutionrelative:7_state\\programstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\6_command\\program_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|solutionrelative:6_command\\program_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\7_state\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|solutionrelative:7_state\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\7_state\\entregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|solutionrelative:7_state\\entregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\7_state\\validado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|solutionrelative:7_state\\validado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\7_state\\encurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|solutionrelative:7_state\\encurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\7_state\\iestadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|solutionrelative:7_state\\iestadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\7_state\\state.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{E1C6CD9B-ED8B-4B12-94BD-A9399A923142}|7_State\\7_State.csproj|solutionrelative:7_state\\state.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\4_composite\\programcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|solutionrelative:4_composite\\programcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\5_adapter\\pdfadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|solutionrelative:5_adapter\\pdfadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\6_command\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|solutionrelative:6_command\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\5_adapter\\pdflibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|solutionrelative:5_adapter\\pdflibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\6_command\\command.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|solutionrelative:6_command\\command.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\5_adapter\\documentohtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|solutionrelative:5_adapter\\documentohtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\6_command\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|solutionrelative:6_command\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\5_adapter\\adapter.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|solutionrelative:5_adapter\\adapter.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\6_command\\rebajarpreciocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|solutionrelative:6_command\\rebajarpreciocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\5_adapter\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6625955-C088-4E43-A278-879DF76559A3}|5_Adapter\\5_Adapter.csproj|solutionrelative:5_adapter\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\4_composite\\iempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|solutionrelative:4_composite\\iempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\4_composite\\grupodeempresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|solutionrelative:4_composite\\grupodeempresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\4_composite\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|solutionrelative:4_composite\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\4_composite\\composite.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{8211D86E-D4ED-4A8D-80B2-C0D40D547115}|4_Composite\\4_Composite.csproj|solutionrelative:4_composite\\composite.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|d:\\repo\\masterua\\ddp\\proyectos-ddp\\practica 4\\patronesgof\\6_command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC6ED9-8E5F-4A1C-AE78-AD8DE9A466EC}|6_Command\\6_Command.csproj|solutionrelative:6_command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,83 +75,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProgramAdapter.cs",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\ProgramAdapter.cs",
-              "RelativeDocumentMoniker": "5_Adapter\\ProgramAdapter.cs",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\ProgramAdapter.cs",
-              "RelativeToolTip": "5_Adapter\\ProgramAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Title": "ProgramState.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\ProgramState.cs",
+              "RelativeDocumentMoniker": "7_State\\ProgramState.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\ProgramState.cs",
+              "RelativeToolTip": "7_State\\ProgramState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:57:20.626Z",
+              "WhenOpened": "2025-02-10T14:03:23.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PDFAdapter.cs",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\PDFAdapter.cs",
-              "RelativeDocumentMoniker": "5_Adapter\\PDFAdapter.cs",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\PDFAdapter.cs",
-              "RelativeToolTip": "5_Adapter\\PDFAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\Pedido.cs",
+              "RelativeDocumentMoniker": "7_State\\Pedido.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\Pedido.cs",
+              "RelativeToolTip": "7_State\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:56:46.569Z",
+              "WhenOpened": "2025-02-10T14:05:14.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PDFLibrary.cs",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\PDFLibrary.cs",
-              "RelativeDocumentMoniker": "5_Adapter\\PDFLibrary.cs",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\PDFLibrary.cs",
-              "RelativeToolTip": "5_Adapter\\PDFLibrary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Title": "Entregado.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\Entregado.cs",
+              "RelativeDocumentMoniker": "7_State\\Entregado.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\Entregado.cs",
+              "RelativeToolTip": "7_State\\Entregado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:56:47.154Z",
+              "WhenOpened": "2025-02-10T14:05:02.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DocumentoHTML.cs",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\DocumentoHTML.cs",
-              "RelativeDocumentMoniker": "5_Adapter\\DocumentoHTML.cs",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\DocumentoHTML.cs",
-              "RelativeToolTip": "5_Adapter\\DocumentoHTML.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Title": "Validado.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\Validado.cs",
+              "RelativeDocumentMoniker": "7_State\\Validado.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\Validado.cs",
+              "RelativeToolTip": "7_State\\Validado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:56:06.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDocument.cs",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\IDocument.cs",
-              "RelativeDocumentMoniker": "5_Adapter\\IDocument.cs",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\IDocument.cs",
-              "RelativeToolTip": "5_Adapter\\IDocument.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:55:54.336Z",
+              "WhenOpened": "2025-02-10T14:04:48.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Adapter.cd",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\Adapter.cd",
-              "RelativeDocumentMoniker": "5_Adapter\\Adapter.cd",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\5_Adapter\\Adapter.cd",
-              "RelativeToolTip": "5_Adapter\\Adapter.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-02-10T10:48:06.208Z",
+              "Title": "EnCurso.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\EnCurso.cs",
+              "RelativeDocumentMoniker": "7_State\\EnCurso.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\EnCurso.cs",
+              "RelativeToolTip": "7_State\\EnCurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:04:17.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "IEstadoPedido.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\IEstadoPedido.cs",
+              "RelativeDocumentMoniker": "7_State\\IEstadoPedido.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\IEstadoPedido.cs",
+              "RelativeToolTip": "7_State\\IEstadoPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:03:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "State.cd",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\State.cd",
+              "RelativeDocumentMoniker": "7_State\\State.cd",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\7_State\\State.cd",
+              "RelativeToolTip": "7_State\\State.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-10T13:57:16.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProgramComposite.cs",
               "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\ProgramComposite.cs",
               "RelativeDocumentMoniker": "4_Composite\\ProgramComposite.cs",
@@ -147,58 +172,84 @@
               "RelativeToolTip": "4_Composite\\ProgramComposite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:24:44.112Z",
+              "WhenOpened": "2025-02-10T13:55:50.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEmpresa.cs",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\IEmpresa.cs",
-              "RelativeDocumentMoniker": "4_Composite\\IEmpresa.cs",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\IEmpresa.cs",
-              "RelativeToolTip": "4_Composite\\IEmpresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program_Command.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\Program_Command.cs",
+              "RelativeDocumentMoniker": "6_Command\\Program_Command.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\Program_Command.cs",
+              "RelativeToolTip": "6_Command\\Program_Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:19:46.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GrupoDeEmpresas.cs",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\GrupoDeEmpresas.cs",
-              "RelativeDocumentMoniker": "4_Composite\\GrupoDeEmpresas.cs",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\GrupoDeEmpresas.cs",
-              "RelativeToolTip": "4_Composite\\GrupoDeEmpresas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:19:41.347Z",
+              "WhenOpened": "2025-02-10T13:55:48.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Empresa.cs",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\Empresa.cs",
-              "RelativeDocumentMoniker": "4_Composite\\Empresa.cs",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\Empresa.cs",
-              "RelativeToolTip": "4_Composite\\Empresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Title": "Invoker.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\Invoker.cs",
+              "RelativeDocumentMoniker": "6_Command\\Invoker.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\Invoker.cs",
+              "RelativeToolTip": "6_Command\\Invoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:19:28.042Z",
+              "WhenOpened": "2025-02-10T13:55:33.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\Catalogo.cs",
+              "RelativeDocumentMoniker": "6_Command\\Catalogo.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\Catalogo.cs",
+              "RelativeToolTip": "6_Command\\Catalogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:55:09.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RebajarPrecioCommand.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\RebajarPrecioCommand.cs",
+              "RelativeDocumentMoniker": "6_Command\\RebajarPrecioCommand.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\RebajarPrecioCommand.cs",
+              "RelativeToolTip": "6_Command\\RebajarPrecioCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:54:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "6_Command\\ICommand.cs",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\ICommand.cs",
+              "RelativeToolTip": "6_Command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:54:20.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Composite.cd",
-              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\Composite.cd",
-              "RelativeDocumentMoniker": "4_Composite\\Composite.cd",
-              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\4_Composite\\Composite.cd",
-              "RelativeToolTip": "4_Composite\\Composite.cd",
+              "Title": "Command.cd",
+              "DocumentMoniker": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\Command.cd",
+              "RelativeDocumentMoniker": "6_Command\\Command.cd",
+              "ToolTip": "D:\\repo\\MasterUA\\DDP\\Proyectos-DDP\\Practica 4\\PatronesGOF\\6_Command\\Command.cd",
+              "RelativeToolTip": "6_Command\\Command.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-02-10T10:17:13.755Z",
+              "WhenOpened": "2025-02-10T13:53:57.89Z",
               "EditorCaption": ""
             }
           ]
