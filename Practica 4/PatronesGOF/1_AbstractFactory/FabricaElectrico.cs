@@ -1,11 +1,10 @@
-﻿using Interfaces;
-using PatronesGOF.AbstractFactory;
+﻿using PatronesGOF.AbstractFactory;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Factories
+namespace PatronesGOF.AbstractFactory
 {
     public class FabricaElectrico : IFabricaVehiculo
     {

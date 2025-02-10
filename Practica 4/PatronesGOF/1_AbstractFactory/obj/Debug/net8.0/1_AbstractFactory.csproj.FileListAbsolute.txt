@@ -13,3 +13,11 @@ D:\Carpetas\repos\MasterUA\DDP\Practica 4\PatronesGOF\obj\Debug\net8.0\refint\1_
 D:\Carpetas\repos\MasterUA\DDP\Practica 4\PatronesGOF\obj\Debug\net8.0\1_AbstractFactory.pdb
 D:\Carpetas\repos\MasterUA\DDP\Practica 4\PatronesGOF\obj\Debug\net8.0\1_AbstractFactory.genruntimeconfig.cache
 D:\Carpetas\repos\MasterUA\DDP\Practica 4\PatronesGOF\obj\Debug\net8.0\ref\1_AbstractFactory.dll
+D:\repo\MasterUA\DDP\Proyectos-DDP\Practica 4\PatronesGOF\1_AbstractFactory\obj\Debug\net8.0\1_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\MasterUA\DDP\Proyectos-DDP\Practica 4\PatronesGOF\1_AbstractFactory\obj\Debug\net8.0\1_AbstractFactory.AssemblyInfoInputs.cache
+D:\repo\MasterUA\DDP\Proyectos-DDP\Practica 4\PatronesGOF\1_AbstractFactory\obj\Debug\net8.0\1_AbstractFactory.AssemblyInfo.cs
+D:\repo\MasterUA\DDP\Proyectos-DDP\Practica 4\PatronesGOF\1_AbstractFactory\obj\Debug\net8.0\1_AbstractFactory.csproj.CoreCompileInputs.cache
+D:\repo\MasterUA\DDP\Proyectos-DDP\Practica 4\PatronesGOF\1_AbstractFactory\obj\Debug\net8.0\1_AbstractFactory.sourcelink.json
+D:\repo\MasterUA\DDP\Proyectos-DDP\Practica 4\PatronesGOF\1_AbstractFactory\obj\Debug\net8.0\1_AbstractFactory.dll
+D:\repo\MasterUA\DDP\Proyectos-DDP\Practica 4\PatronesGOF\1_AbstractFactory\obj\Debug\net8.0\refint\1_AbstractFactory.dll
+D:\repo\MasterUA\DDP\Proyectos-DDP\Practica 4\PatronesGOF\1_AbstractFactory\obj\Debug\net8.0\1_AbstractFactory.pdb

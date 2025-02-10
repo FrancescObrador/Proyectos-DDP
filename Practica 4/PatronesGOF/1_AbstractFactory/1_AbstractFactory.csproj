@@ -9,8 +9,11 @@
 
   <ItemGroup>
     <Compile Remove="Ejercicio1\**" />
+    <Compile Remove="Interfaces\**" />
     <EmbeddedResource Remove="Ejercicio1\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
     <None Remove="Ejercicio1\**" />
+    <None Remove="Interfaces\**" />
   </ItemGroup>
 
 </Project>

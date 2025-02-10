@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Interfaces
+namespace PatronesGOF.AbstractFactory
 {
-    public interface ICombustible
+    public interface IVehiculo
     {
-        string ObtenerTipo();
+        void Mostrar();
     }
 }
