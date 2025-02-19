@@ -1,0 +1,82 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      <ion-icon name="person-circle-outline"></ion-icon>
+      Perfil Cliente
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>
+        <ion-icon name="person-outline"></ion-icon>
+        Información Personal
+      </ion-card-title>
+    </ion-card-header>
+
+    <ion-card-content>
+      <ion-list>
+        <ion-item>
+          <ion-icon slot="start" name="id-card-outline"></ion-icon>
+          <ion-label>DNI: {{cliente?.dni}}</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-icon slot="start" name="person-outline"></ion-icon>
+          <ion-label>Nombre: {{cliente?.nombre}}</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-icon slot="start" name="home-outline"></ion-icon>
+          <ion-label>Dirección: {{cliente?.direccion}}</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-icon slot="start" name="call-outline"></ion-icon>
+          <ion-label>Teléfono: {{cliente?.telefono}}</ion-label>
+        </ion-item>
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>
+        <ion-icon name="receipt-outline"></ion-icon>
+        Facturas
+      </ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <ion-list>
+        <ion-item *ngFor="let factura of cliente?.facturas" (click)="clickFactura(factura)" button>
+          <ion-icon slot="start" name="document-outline"></ion-icon>
+          <ion-label>
+            <h2>Factura {{factura.id}}</h2>
+            <p>{{factura.dameTotal}}€</p>
+          </ion-label>
+          <ion-icon slot="end" name="chevron-forward-outline"></ion-icon>
+        </ion-item>
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>
+        <ion-icon name="calendar-outline"></ion-icon>
+        Reservas
+      </ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <ion-list>
+        <ion-item *ngFor="let reserva of reservas" (click)="clickReserva(reserva)" button>
+          <ion-icon slot="start" name="time-outline"></ion-icon>
+          <ion-label>
+            <h2>Reserva {{reserva.id}}</h2>
+            <p>De {{reserva.inicio | date }} a {{reserva.final | date}}</p>
+          </ion-label>
+          <ion-icon slot="end" name="chevron-forward-outline"></ion-icon>
+        </ion-item>
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
